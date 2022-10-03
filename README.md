@@ -14,6 +14,8 @@ $pkg install git
 git clone https://github.com/BjourkaTutorial/hack-fb 
 $cd hack-fb 
 $ls
+$bash install.sh 
+$ls
 $python mbf.py
 
 ```
