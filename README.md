@@ -2,6 +2,7 @@
 
 harap perhatikan besar kecilnya huruf, dan tanda baca.
 ...
+
 $pkg update && pkg upgrade 
 $pkg python 
 $pkg python2 
@@ -13,5 +14,7 @@ git clone https://github.com/BjourkaTutorial/hack-fb
 $cd hack-fb 
 $ls
 $python mbf.py
+
 ,,,
+
 #Enjoy
